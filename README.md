@@ -1,16 +1,12 @@
 # chatapp
 
 A new Flutter project.
+--------------------------------------------------------------------------
+✅ finishing auth part UI
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="205" alt="Screenshot 2025-01-22 015907" src="https://github.com/user-attachments/assets/a5a1b472-7e8e-48df-8184-e1ee7649ee29" style="margin-right: 50 px" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="196" alt="Screenshot 2025-01-23 234744" src="https://github.com/user-attachments/assets/fc8b4298-cf6c-4beb-90e3-3c174025dd0e" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 
